@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UserInterface</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="titles">
+        <item>Intelligent code editor</item>
+        <item>Code templates and GitHub integration</item>
+        <item>Virtual devices for all shapes and sizes</item>
+        <item>Android builds evolved, with Gradle</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>At the core of Android Studio is an intelligent code editor capable of advanced code completion, refactoring, and code analysis. The powerful code editor helps you be a more productive Android app developer.</item>
+        <item>New project wizards make it easier than ever to start a new project. Start projects using template code for patterns such as navigation drawer and view pagers, and even import Google code samples from GitHub.</item>
+        <item>Android Studio comes pre-configured with an optimized emulator image. The updated and streamlined Virtual Device Manager provides pre-defined device profiles for common Android devices.</item>
+        <item>Create multiple APKs for your Android app with different features using the same project. Manage app dependencies with Maven. Build APKs from Android Studio or the command line.</item>
+    </string-array>
+</resources>
